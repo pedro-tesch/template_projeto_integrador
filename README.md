@@ -5,9 +5,11 @@ Trabalho desenvolvido durante a disciplina de projeto Integrador
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
-...
+Arthur Souza:souzasilvaarthur2008@gmail.com<br>
+Arthur Castilho:castilhoa078@gmail.com<br>
+Davi Amorim: davilaures@outlook.com
+Jackson Ferreira:
+Pedro Henrique: pptesch@gmail.com
 
  
 ### 2. Ideias Selecionadas, Matriz de selecao e OpportunityCard
