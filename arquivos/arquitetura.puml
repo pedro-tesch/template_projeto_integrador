@@ -1,0 +1,20 @@
+@startuml Arquitetura_Simplificada_Web
+top to bottom direction
+
+(:Usuário:) as User
+
+package "Frontend (camada de apresentação)" {
+    rectangle "Web\n(HTML, CSS, JavaScript)" as WebFront
+}
+
+package "Backend (camada de negócio)" {
+    rectangle "API Web\n(PHP / Node.js)" as WebBack
+}
+
+database "Banco de Dados (camada de dados)\n--\n• Firebase" as DB
+
+' Fluxo Web
+User --> WebFront : acessa
+WebFront --> WebBack : requisição
+WebBack --> DB : consulta/grava
+@enduml
