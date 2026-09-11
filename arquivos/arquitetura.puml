@@ -17,4 +17,4 @@ database "Banco de Dados (camada de dados)\n--\n• Firebase" as DB
 User --> WebFront : acessa
 WebFront --> WebBack : requisição
 WebBack --> DB : consulta/grava
-@enduml
+@endumlgit
