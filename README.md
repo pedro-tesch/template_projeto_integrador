@@ -8,7 +8,7 @@ Integrantes do grupo<br>
 Arthur Souza:souzasilvaarthur2008@gmail.com<br>
 Arthur Castilho:castilhoa078@gmail.com<br>
 Davi Amorim: davilaures@outlook.com<br>
-Jackson Ferreira: <br>
+Jackson Ferreira: jacksonfsouza05@gmail.com<br>
 Pedro Henrique: pptesch@gmail.com<br>
 
  
